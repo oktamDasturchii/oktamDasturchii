@@ -17,8 +17,8 @@
 
 - Frontend yo‘nalishida web interfeyslar yarataman.
 - HTML, CSS, JavaScript va React’dan foydalanaman.
-- Sodda, qulay va tartibli dizaynga e’tibor beraman.
+- Har bir loyihada qulay interfeys va sifatli foydalanuvchi tajribasiga e’tibor beraman.
 
 ### 📂 Loyihalar
 
-[GitHub loyihalarim →](https://github.com/oktamDasturchii?tab=repositories)
+[GitHub loyihalarim →](https://github.com/oktamjon-frontend?tab=repositories)
