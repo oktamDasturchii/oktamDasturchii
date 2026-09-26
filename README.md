@@ -31,12 +31,8 @@
 
 Amaliy ishlarim va o‘rganish jarayonidagi loyihalarimni [GitHub repozitoriyalarimda](https://github.com/oktamjon-frontend?tab=repositories) ko‘rishingiz mumkin.
 
-### 📊 GitHub statistikasi
+### 📊 GitHub faolligi
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oktamjon-frontend&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistikasi" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=oktamjon-frontend&layout=compact&theme=tokyonight&hide_border=true" alt="Ko‘p ishlatilgan dasturlash tillari" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=oktamjon-frontend&theme=tokyonight&hide_border=true" alt="GitHub faollik ketma-ketligi" />
 </p>
